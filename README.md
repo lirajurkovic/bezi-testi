@@ -4,3 +4,6 @@ Glede na to, da zna biti zamudno iskat teste po fb skupini, je tukaj malo bolj o
 Namen deljenih testov in preverjanj je pomoč pri pripravi na prihodnje kontrolne naloge in utrjevanje svojega znanja. ( :) )
 
 update: dodani testi za 3. letnik
+update 2: dodani testi za 4. letnik
+
+LP še naprej
